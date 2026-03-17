@@ -145,6 +145,11 @@ Além do que o case pede, o projeto também entrega:
 - gráficos de apoio
 - top 10 produtos por categoria
 
+## Evolução na branch develop
+
+Na branch `develop`, foi adicionada uma análise complementar para trazer o top 10 produtos por categoria, conforme solicitado no case.
+
+
 ## Sugestão de fluxo no GitHub
 
 1. subir o projeto na branch `main`
@@ -152,4 +157,3 @@ Além do que o case pede, o projeto também entrega:
 3. adicionar a análise de top 10 por categoria
 4. abrir um Pull Request de `develop` para `main`
 
-O arquivo `GUIA_GITHUB_PASSO_A_PASSO.md` explica isso em linguagem simples, pensando em quem nunca usou GitHub.
